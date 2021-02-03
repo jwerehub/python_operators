@@ -1,0 +1,9 @@
+x="python"
+y="operators"
+print(x>=y)
+d=15
+e=9
+print(d>e and e<=d)
+print(d>e or e<=d)
+print(not e>d)
+

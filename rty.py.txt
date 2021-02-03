@@ -1,0 +1,8 @@
+print(f&g)
+print(f^g)
+print(f|g)
+x=("Mercedes")
+y=("Mercedes")
+print (y is x)
+x=("Mercedes", "BMW")
+print("Mercedes" in x)
